@@ -1,0 +1,9 @@
+author = TrlandModDeveloper
+version = 1.1
+displayName = TrlandMod,Made in China!
+homepage = 
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

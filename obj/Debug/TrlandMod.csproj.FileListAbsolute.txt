@@ -1,0 +1,8 @@
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\bin\Debug\TrlandMod.dll
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\bin\Debug\TrlandMod.pdb
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\bin\Debug\Terraria.exe
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\obj\Debug\TrlandMod.csprojAssemblyReference.cache
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\obj\Debug\TrlandMod.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\obj\Debug\TrlandMod.csproj.CopyComplete
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\obj\Debug\TrlandMod.dll
+C:\Users\super\Documents\My Games\Terraria\ModLoader\Mod Sources\TrlandMod\obj\Debug\TrlandMod.pdb
