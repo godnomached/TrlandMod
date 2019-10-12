@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 namespace TrlandMod.Items.Armor
 {
 	[AutoloadEquip(EquipType.Body)]
-	public class Ð¡Àî°å¼× : ModItem
+	public class LiBreastplate : ModItem
 	{
 		public override void SetStaticDefaults() {
 			base.SetStaticDefaults();

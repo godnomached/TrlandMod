@@ -5,7 +5,7 @@ using Terraria.ID;
 namespace TrlandMod.Items.Armor
 {
 	[AutoloadEquip(EquipType.Legs)]
-	public class 小李腿甲 : ModItem
+	public class LiLeggings : ModItem
 	{
 		public override void SetStaticDefaults() {
 			Tooltip.SetDefault("小李系列"

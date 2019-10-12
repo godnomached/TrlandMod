@@ -28,7 +28,7 @@ namespace TrlandMod.Items.Weapons
             item.value = Item.sellPrice(silver: 50);
             item.rare = 3;
             item.UseSound = SoundID.Item9;
-            item.shoot = mod.ProjectileType<Projectiles.三叉戟弹幕>();
+            item.shoot = ModContent.ProjectileType<Projectiles.三叉戟弹幕>();
             item.shootSpeed = 10f;
         }
 

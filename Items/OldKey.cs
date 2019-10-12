@@ -16,7 +16,7 @@ namespace TrlandMod.Items
         {
             item.damage = 0;
             item.useStyle = 1;
-            item.shoot = mod.ProjectileType<Projectiles.Pets.LootChestPet>();
+            item.shoot = ModContent.ProjectileType<Projectiles.Pets.LootChestPet>();
             item.width = 16;
             item.height = 30;
             item.UseSound = SoundID.Item2;
@@ -25,7 +25,7 @@ namespace TrlandMod.Items
             item.rare = 3;
             item.noMelee = true;
             item.value = Item.buyPrice(0, 3, 0, 0);
-            item.buffType = mod.BuffType<Buffs.LootChestPetBuff>();
+            item.buffType = ModContent.BuffType<Buffs.LootChestPetBuff>();
         }
 
         public override void AddRecipes()

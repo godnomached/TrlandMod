@@ -5,7 +5,7 @@ using Terraria.ID;
 namespace TrlandMod.Items.Armor
 {
 	[AutoloadEquip(EquipType.Head)]
-	public class 小李头盔 : ModItem
+	public class LiHelment : ModItem
 	{
 		public override void SetStaticDefaults() {
 			Tooltip.SetDefault("小李系列");

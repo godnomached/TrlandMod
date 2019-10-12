@@ -15,7 +15,7 @@ namespace TrlandMod.Buffs
 
         public override void Update(Player player, ref int buffIndex)
         {
-            player.mount.SetMount(mod.MountType<Mounts.破旧汽车>(), player);
+            player.mount.SetMount(ModContent.MountType<Mounts.破旧汽车>(), player);
             player.buffTime[buffIndex] = 10;
         }
     }

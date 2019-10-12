@@ -1,5 +1,8 @@
 ﻿TrlandMod模组
 包括一些武器，宠物，坐骑和许多英雄联盟里的饰品（原型是武器），后续将添加更多内容
 加群:879761264讨论制作
+版本：0.11
 TrlandMod
 include some weapons,a pet,a mount,and many accessory of league of legends(change weapons to accessory),we'll add more items and npc to this mod later.
+version:0.11
+

@@ -2,6 +2,7 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using Rectangle = Microsoft.Xna.Framework.Rectangle;
 
 namespace TrlandMod.Items.Weapons
 {

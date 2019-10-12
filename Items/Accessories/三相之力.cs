@@ -1,12 +1,10 @@
 ﻿using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using TrlandMod;
-using TrlandMod.Items.TrlandModDamageClass;
 
 namespace TrlandMod.Items.Accessories
 {
-	public class 三相之力 : ModItem
+    public class 三相之力 : ModItem
 	{
 
 
